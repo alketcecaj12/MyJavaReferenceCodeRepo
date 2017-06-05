@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-aa-prop-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-alignment-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-core-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-genome-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-protein-disorder-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-structure-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/biojava3-ws-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/LatLongLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alketcecaj/workspace_new/Algoritmi/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

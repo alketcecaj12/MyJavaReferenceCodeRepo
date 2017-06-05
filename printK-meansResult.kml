@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+<Style id="ff0000ff">
+<IconStyle>
+<color>ff0000ff</color>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+</Icon>
+</IconStyle>
+<ListStyle>
+</ListStyle>
+</Style>
+<Style id="ff00ff00">
+<IconStyle>
+<color>ff00ff00</color>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+</Icon>
+</IconStyle>
+<ListStyle>
+</ListStyle>
+</Style>
+<Style id="ffff0000">
+<IconStyle>
+<color>ffff0000</color>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+</Icon>
+</IconStyle>
+<ListStyle>
+</ListStyle>
+</Style>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-4.817068715124663,42.04373364036778,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-5.188634873501846,41.77228385578868,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-5.527446828798449,41.39769154453843,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-5.125658685958719,41.03710214783911,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-4.531054966183042,41.02558547995614,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-3.937247205382887,41.01107959804275,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-3.423636876803208,41.2994411664865,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-3.387850699314499,41.72787042256399,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-3.494963037783178,42.13564621513375,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-4.009635568874904,42.37840556605759,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-4.789430531722172,42.47314504989882,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-5.337503947616779,42.28086793536046,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-5.391391964571656,41.95271302939901,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-4.873308712912243,41.71593023877571,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>-4.244976365569309,41.60076557038481,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>17.72103525777121,65.36193304969252,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>16.69088497262257,65.3765453949072,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>15.64837917279008,65.2686141249391,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>14.84932594924475,64.90004754365556,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>14.79890140306629,64.27320527821504,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>15.50901460598143,64.0149868873404,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>16.51744887136849,64.24781856156163,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>17.07207919163282,64.61431009555812,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>17.43914163162769,65.2396449911361,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>17.56260865568196,65.870839517462,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>16.51104458116913,65.88629056225318,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>15.67801026551381,65.52066439810632,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>15.63379252442191,65.1427452343147,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>36.40901825708348,39.86232429144697,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>35.89323935790167,39.75515150086656,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>36.03862076255167,39.28667799640385,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>36.56162643757573,38.9510791132122,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>37.00140404818852,38.85114351957888,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>37.76786457827879,38.78313059851812,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>38.01750465317829,39.05628403381503,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>38.16078242544225,39.46503546231231,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>38.22481837867438,40.00256353546017,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>37.90955583533145,40.40665448538601,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>37.31849272298688,40.5398634499629,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>36.57847062986468,40.70166612864595,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>35.79860594531877,40.75716946881675,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>35.38824173685323,40.51506801539137,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>35.23774387678426,40.1108492112518,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>35.3803339827541,39.64597140523873,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>35.56614334735701,39.27953789104662,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>36.0580410538953,38.84363981367253,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>36.43241049706459,38.53986636018523,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>37.01576918785034,38.40611742490331,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>37.30731672035043,38.33800278435214,0 </coordinates></Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,8 @@
+Lisa;LadyInTheWater,2.5 SnakesOnAPlane,3.5 JustMyLuck,3.0 SupermanReturns,3.5 TheNightListener,3.0 YouMeAndDupree,2.5 MoonLight,3.5 SupermanReturns2,5.0
+Toby;LadyInTheWater,3.0 SnakesOnAPlane,3.5 JustMyLuck,1.5 SupermanReturns,5.0 TheNightListener,3.0
+Mike;LadyInTheWater,3.5 SnakesOnAPlane,3.0 JustMyLuck,3.5 SupermanReturns,4.0 TheNightListener,1.0 YouMeAndDupree,1.5 SupermanReturns2,4.0
+Gene;LadyInTheWater,4.5 SnakesOnAPlane,4.5 JustMyLuck,1.0 SupermanReturns,1.5 TheNightListener,2.0 YouMeAndDupree,4.5
+Phil;LadyInTheWater,3.0 JustMyLuck,1.5 SupermanReturns,5.0 TheNightListener,5.0 YouMeAndDupree,1.5
+Claudia;LadyInTheWater,3.5 SnakesOnAPlane,1.0 JustMyLuck,2.5 SupermanReturns,4.0 TheNightListener,2.0 YouMeAndDupree,1.5
+Jessika;LadyInTheWater,4.5 SnakesOnAPlane,3.5 JustMyLuck,3.0 SupermanReturns,3.5 TheNightListener,3.0 YouMeAndDupree,2.5
+Martin;LadyInTheWater,1.0 SnakesOnAPlane,4.5 JustMyLuck,1.5 TheNightListener,2.0 YouMeAndDupree,3.5

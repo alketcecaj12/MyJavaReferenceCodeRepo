@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+<Style id="ff0000ff">
+<IconStyle>
+<color>ff0000ff</color>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+</Icon>
+</IconStyle>
+<ListStyle>
+</ListStyle>
+</Style>
+<Style id="ff00ff00">
+<IconStyle>
+<color>ff00ff00</color>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+</Icon>
+</IconStyle>
+<ListStyle>
+</ListStyle>
+</Style>
+<Style id="ffff0000">
+<IconStyle>
+<color>ffff0000</color>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+</Icon>
+</IconStyle>
+<ListStyle>
+</ListStyle>
+</Style>
+<Placemark>
+<styleUrl>#ff00ff00</styleUrl>
+<Point>
+ <coordinates>1.0,1.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ff00ff00</styleUrl>
+<Point>
+ <coordinates>1.0,2.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ff00ff00</styleUrl>
+<Point>
+ <coordinates>2.0,1.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>15.0,15.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>14.0,14.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ffff0000</styleUrl>
+<Point>
+ <coordinates>15.0,14.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ff0000ff</styleUrl>
+<Point>
+ <coordinates>7.0,8.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ff0000ff</styleUrl>
+<Point>
+ <coordinates>7.0,7.0,0 </coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#ff0000ff</styleUrl>
+<Point>
+ <coordinates>8.0,7.0,0 </coordinates></Point>
+</Placemark>
+</Document>
+</kml>
